@@ -1,7 +1,7 @@
 # [I've joined the #100DaysOfCode Challenge](http://www.100daysofcode.com/ "Official Website")
 
 # Contents
-  * [Log - click here to see my progress](/Logfile.md)
+  * [Log - click here to see my progress](/LOG.md)
   * [Rules](/Rules.md)
   * [FAQ](/FAQ.md)
   * [Resources](/Resources.md)
