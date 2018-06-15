@@ -10,3 +10,14 @@
 
 
 ### 
+
+### Day 2: June 15, 2018
+
+**Today's Progress:** Trained my first baby Agent to correctly balance a ball, using Reinforcement Learning algorithm called Proximal Policy Optimization (PPO)
+
+**Thoughts:** Feeling good to see some results, but I think tomorrow I should try to dive to some deeper understanding :)
+
+**Link:** https://blog.openai.com/openai-baselines-ppo/
+
+
+### 
