@@ -21,3 +21,14 @@
 
 
 ### 
+
+### Day 3: June 16, 2018
+
+**Today's Progress:** Made my SocerAcademy example with "GoalieBrain" and "StrikerBrain" also learned a little bit more about Deep Learning and Reinforcement Learning.
+
+**Thoughts:** Lot's of new information... didn't feel that I made lot's of progress today.
+
+**Link:** https://github.com/Unity-Technologies/ml-agents/tree/master/unity-environment/Assets/ML-Agents/Scripts
+
+
+### 
