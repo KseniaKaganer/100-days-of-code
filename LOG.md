@@ -32,3 +32,14 @@
 
 
 ### 
+
+### Day 4: June 17, 2018
+
+**Today's Progress:** Great WCS Games Today ♥ So finally decided to try to find out how is my favorite game in the world **StarCraft** works! Started from great GitHub referance and worked on it - Thanks for sharing 'coconauts'
+
+**Thoughts:** Lot's of motivation :)
+
+**Link:** https://github.com/coconauts/startcraft-unity3d
+
+
+### 
