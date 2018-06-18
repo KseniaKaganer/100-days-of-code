@@ -43,3 +43,15 @@
 
 
 ### 
+
+### Day 5: June 18, 2018
+
+**Today's Progress:** Continue working on the **StarCraft** game. More focusing on the building logic
+
+**Thoughts:** Long work day... It's hard to code all day at work and then find time to advance myself everyday in my free time.
+But I'll continue trying.
+
+**Link:** http://starcraft.wikia.com/wiki/Category:StarCraft_Terran_buildings
+
+
+### 
