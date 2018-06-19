@@ -55,3 +55,15 @@ But I'll continue trying.
 
 
 ### 
+
+### Day 6: June 19, 2018
+
+**Today's Progress:** Started to do something I always wanted to - Useful standalone code packages. so I created a "TemplateProject" for this purpose and started coding it, with potential of maximized abstraction.
+For now added FileReader, XmlReader and EditorMenuItem.
+
+**Thoughts:** Almost had no time to do the challagne but then delayed my sleep... and survived one more day :D 
+
+**Link:** https://docs.unity3d.com/ScriptReference/MenuItem.html
+
+
+### 
