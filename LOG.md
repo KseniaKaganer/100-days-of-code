@@ -67,3 +67,17 @@ For now added FileReader, XmlReader and EditorMenuItem.
 
 
 ### 
+
+### Day 7: June 20, 2018
+
+**Today's Progress:** Continue adding/editing my ultimate "TemplateProject".
+Was a little lazy but I need to made myself write some test to make it much more useful... Hopefully when I'm done I'll upload it to Github so maybe more people will find use of in it.
+
+**Thoughts:** Work Hard Go Pro! :)
+
+**Link:** https://unity3d.com/learn/tutorials/topics/interface-essentials/adding-buttons-custom-inspector
+
+
+### 
+
+
