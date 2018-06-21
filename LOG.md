@@ -80,4 +80,16 @@ Was a little lazy but I need to made myself write some tests to make it much mor
 
 ### 
 
+### Day 8: June 21, 2018
+
+**Today's Progress:** Continue adding/editing my ultimate "TemplateProject".
+Finally I encourage myself to work on a good 'Test Runner' for my project.
+
+**Thoughts:** Tired from a long work day... Hopefully more progress tomorrow!
+
+**Link:** https://docs.unity3d.com/Manual/testing-editortestsrunner.html
+
+
+### 
+
 
