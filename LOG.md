@@ -93,3 +93,15 @@ Finally I encourage myself to work on a good 'Test Runner' for my project.
 ### 
 
 
+### Day 9: June 22, 2018
+
+**Today's Progress:** Starting the freeCodeCamp courses, it's a cute step by step tutorial.
+And you should get a Certificate in the end of each class:)
+
+**Thoughts:** Trying something new!
+
+**Link:** https://www.freecodecamp.org/
+
+
+### 
+
