@@ -105,3 +105,14 @@ And you should get a Certificate in the end of each class:)
 
 ### 
 
+### Day 10: June 23, 2018
+
+**Today's Progress:** Playing CodingGame C++ Day!
+
+**Thoughts:** Thanks to this site I found about the challenge ^_^
+
+**Link:** https://www.codingame.com/home
+
+
+### 
+
