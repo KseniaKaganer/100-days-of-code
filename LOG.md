@@ -116,3 +116,14 @@ And you should get a Certificate in the end of each class:)
 
 ### 
 
+### Day 11: June 24, 2018
+
+**Today's Progress:** Playing C++ Coding Games: Lists,Multidimensional array, nested loops...
+
+**Thoughts:** Great Great practice! I love it!
+
+**Link:** https://www.codingame.com/training/medium/there-is-no-spoon-episode-1
+
+
+### 
+
