@@ -127,3 +127,15 @@ And you should get a Certificate in the end of each class:)
 
 ### 
 
+
+### Day 12: June 25, 2018
+
+**Today's Progress:** Only now starting to catch up on various Design Patterns.
+Some Great stuff here :D Great to Play with it around! Dependency Injection!
+
+**Thoughts:** Shame to start learning it so late X_X
+
+**Link:** https://app.pluralsight.com/library/courses/dependency-injection-on-ramp/table-of-contents
+
+
+### 
