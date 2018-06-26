@@ -139,3 +139,15 @@ Some Great stuff here :D Great to Play with it around! Dependency Injection!
 
 
 ### 
+
+
+### Day 13: June 26, 2018
+
+**Today's Progress:** Unity Shaders - Depth Shader, Replacement Shader, Toon Shader...
+
+**Thoughts:** Helped a friend to do some project :)
+
+**Link:** https://en.wikipedia.org/wiki/Cel_shading
+
+
+### 
