@@ -151,3 +151,15 @@ Some Great stuff here :D Great to Play with it around! Dependency Injection!
 
 
 ### 
+
+
+### Day 14: June 27, 2018
+
+**Today's Progress:** Python is so trendy this days :D Starting to Ramp Up on it!
+
+**Thoughts:** Maybe it's not ideal that I switch to something new everyday and not consistent enough...
+
+**Link:**https://www.learnpython.org/
+
+
+### 
