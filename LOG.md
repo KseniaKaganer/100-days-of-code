@@ -159,7 +159,7 @@ Some Great stuff here :D Great to Play with it around! Dependency Injection!
 
 **Thoughts:** Maybe it's not ideal that I switch to something new everyday and not consistent enough...
 
-**Link:**https://www.learnpython.org/
+**Link:** https://www.learnpython.org/
 
 
 ### 
