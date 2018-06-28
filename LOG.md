@@ -163,3 +163,14 @@ Some Great stuff here :D Great to Play with it around! Dependency Injection!
 
 
 ### 
+
+### Day 15: June 28, 2018
+
+**Today's Progress:** Continue to Python - And a little bit of Computational Graphs
+
+**Thoughts:** Lazy Day!
+
+**Link:** https://tech.io/playgrounds/9487/deep-learning-from-scratch---theory-and-implementation/computational-graphs
+
+
+### 
