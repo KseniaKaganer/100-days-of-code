@@ -174,3 +174,15 @@ Some Great stuff here :D Great to Play with it around! Dependency Injection!
 
 
 ### 
+
+
+### Day 16: June 29, 2018
+
+**Today's Progress:** Continue to Python - Added Some Easy Coding Games for Practice
+
+**Thoughts:** Slowly but Surely the challenge is continuous!
+
+**Link:** https://www.codingame.com/training/easy/mars-lander-episode-1
+
+
+### 
