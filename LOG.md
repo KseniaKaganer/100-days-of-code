@@ -186,3 +186,15 @@ Some Great stuff here :D Great to Play with it around! Dependency Injection!
 
 
 ### 
+
+
+### Day 17: June 30, 2018
+
+**Today's Progress:** Small progress on the Web Design Certification.
+
+**Thoughts:** Weekends are always great for coding!
+
+**Link:** https://www.freecodecamp.org/
+
+
+### 
