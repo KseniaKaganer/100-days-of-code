@@ -198,3 +198,15 @@ Some Great stuff here :D Great to Play with it around! Dependency Injection!
 
 
 ### 
+
+
+### Day 18: July 1, 2018
+
+**Today's Progress:** Progress on the "Applied Visual Design" part.
+
+**Thoughts:** 0 motivation day - but still managed to do the challenge
+
+**Link:** https://www.freecodecamp.org/
+
+
+### 
