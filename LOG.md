@@ -210,3 +210,15 @@ Some Great stuff here :D Great to Play with it around! Dependency Injection!
 
 
 ### 
+
+
+### Day 19: July 2, 2018
+
+**Today's Progress:** Playing with Unreal Engine Learn Projects. I Created a Quick Start Guide with some useful links.
+
+**Thoughts:** Couldn't sleep, so got up early to complete my daily challenge!
+
+**Link:** https://drive.google.com/open?id=1wuOGd8DfkFF0tyc5mQ5jXtxo-oEkUD_0Wcgax5OwC6g
+
+
+### 
