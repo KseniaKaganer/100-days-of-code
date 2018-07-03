@@ -222,3 +222,15 @@ Some Great stuff here :D Great to Play with it around! Dependency Injection!
 
 
 ### 
+
+
+### Day 20: July 3, 2018
+
+**Today's Progress:** Continue my Design Patterns Study/Practice. Found some great videos for really good understanding of all the concepts!
+
+**Thoughts:** Barely made myself to do the challenge today...
+
+**Link:** https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=2&t=1s
+
+
+### 
