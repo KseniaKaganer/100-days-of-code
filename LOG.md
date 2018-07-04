@@ -234,3 +234,15 @@ Some Great stuff here :D Great to Play with it around! Dependency Injection!
 
 
 ### 
+
+
+### Day 21: July 4, 2018
+
+**Today's Progress:** Want to input Real Life ~ Geographic Coordinate System to a Game! If you interested there are some great packs for that :)
+
+**Thoughts:** "Barely made myself to do the challenge" day2...
+
+**Link:** https://www.wrld3d.com/
+
+
+### 
