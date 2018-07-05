@@ -246,3 +246,15 @@ Some Great stuff here :D Great to Play with it around! Dependency Injection!
 
 
 ### 
+
+
+### Day 22: July 5, 2018
+
+**Today's Progress:** Today I position an object in Cartesian Coordinate System using Lat Long input, Great "WRLD" API.
+
+**Thoughts:** Trying to get back on the Motivation Horse :D
+
+**Link:** https://wrld3d.com/unity/latest/docs/api/
+
+
+### 
