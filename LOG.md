@@ -258,3 +258,14 @@ Some Great stuff here :D Great to Play with it around! Dependency Injection!
 
 
 ### 
+
+### Day 23: July 6, 2018
+
+**Today's Progress:** Continue my FreeCodeCamp Learning! I want this Certificate so much :D
+
+**Thoughts:** Slowly moving on :)
+
+**Link:** https://www.freecodecamp.org/
+
+
+### 
