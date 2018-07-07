@@ -269,3 +269,16 @@ Some Great stuff here :D Great to Play with it around! Dependency Injection!
 
 
 ### 
+
+
+### Day 24: July 7, 2018
+
+**Today's Progress:** 2D Game Runner as always Unity providing a great starting point! So GLHF!
+The fun thing about Game Development it's that sometimes you can't pass your own levels :D
+
+**Thoughts:** Coding and Beer... That's my weekend spirit!
+
+**Link:** https://unity3d.com/learn/tutorials/s/2d-game-kit
+
+
+### 
