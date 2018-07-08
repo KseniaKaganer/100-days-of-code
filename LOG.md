@@ -282,3 +282,15 @@ The fun thing about Game Development it's that sometimes you can't pass your own
 
 
 ### 
+
+
+### Day 25: July 8, 2018
+
+**Today's Progress:** Finally got to the FreeCodeCamp project part! I feel this Certificate is so close!
+
+**Thoughts:** So much work at work... But I'll try to do my best here...
+
+**Link:** https://www.freecodecamp.org/
+
+
+### 
