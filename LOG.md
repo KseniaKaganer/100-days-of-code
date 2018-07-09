@@ -294,3 +294,15 @@ The fun thing about Game Development it's that sometimes you can't pass your own
 
 
 ### 
+
+
+### Day 26: July 9, 2018
+
+**Today's Progress:** Got my first FreeCodeCamp Certificate on Responsive Web Design!
+
+**Thoughts:** Was determined to finish the left projects today! So I really glad I did it!
+
+**Link:** https://www.freecodecamp.org/
+
+
+### 
