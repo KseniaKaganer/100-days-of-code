@@ -302,7 +302,7 @@ The fun thing about Game Development it's that sometimes you can't pass your own
 
 **Thoughts:** Was determined to finish the left projects today! So I really glad I did it!
 
-**Link:** https://www.freecodecamp.org/
+**Link:** https://www.freecodecamp.org/certification/kseniakaganer/responsive-web-design
 
 
 ### 
