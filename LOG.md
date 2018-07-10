@@ -306,3 +306,15 @@ The fun thing about Game Development it's that sometimes you can't pass your own
 
 
 ### 
+
+
+### Day 27: July 10, 2018
+
+**Today's Progress:** Playing with Shaders: Silhouette, Outline and Depth.
+
+**Thoughts:** Had some questions so wanted to find some answers :)
+
+**Link:** http://wiki.unity3d.com/index.php/Silhouette-Outlined_Diffuse
+
+
+### 
