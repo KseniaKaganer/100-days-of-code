@@ -330,3 +330,16 @@ The fun thing about Game Development it's that sometimes you can't pass your own
 
 
 ### 
+
+
+### Day 29: July 12, 2018
+
+**Today's Progress:** Back to my "TemplateProject" doing some code refactoring to have more logical form and maximizes to loosely couple code, also added more texture handler and capture format images.
+There's so many things to add more to this project.
+
+**Thoughts:** Long day... But the weekend starts tomorrow:)
+
+**Link:** https://docs.unity3d.com/ScriptReference/TextureFormat.html
+
+
+### 
