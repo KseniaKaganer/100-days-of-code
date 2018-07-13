@@ -343,3 +343,16 @@ There's so many things to add more to this project.
 
 
 ### 
+
+
+### Day 30: July 13, 2018
+
+**Today's Progress:** Unity "TemplateProject" moving on!
+Publish my first folder structure with some of the features, still not sure about how to use all of them so need to continue my refactoring and then will add all the rest. But at least I had the first start...
+
+**Thoughts:** Wekend Code - so many uncertainty today.
+
+**Link:** https://github.com/KseniaKaganer/TemplateProject
+
+
+### 
