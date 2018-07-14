@@ -350,9 +350,21 @@ There's so many things to add more to this project.
 **Today's Progress:** Unity "TemplateProject" moving on!
 Publish my first folder structure with some of the features, still not sure about how to use all of them so need to continue my refactoring and then will add all the rest. But at least I had the first start...
 
-**Thoughts:** Wekend Code - so many uncertainty today.
+**Thoughts:** Weekend Code - so many uncertainty today.
 
 **Link:** https://github.com/KseniaKaganer/TemplateProject
 
 
 ### 
+
+
+### Day 31: July 14, 2018
+
+**Today's Progress:** Want to create some easy 2D game... But still not figure out it's type...
+
+**Thoughts:** Weekend Early coding... And now going to receive some sunlight with my friends!
+
+**Link:** https://www.assetstore.unity3d.com/en/#!/content/11228
+
+
+###
