@@ -368,3 +368,15 @@ Publish my first folder structure with some of the features, still not sure abou
 
 
 ###
+
+
+### Day 32: July 15, 2018
+
+**Today's Progress:** Shaders Day! Great online playground!
+
+**Thoughts:** Thought day! Arrived late to my parents house and tried to do something... Not a very productive day X_X
+
+**Link:** https://www.shadertoy.com/
+
+
+###
