@@ -380,3 +380,16 @@ Publish my first folder structure with some of the features, still not sure abou
 
 
 ###
+
+
+### Day 33: July 16, 2018
+
+**Today's Progress:** Got Some idea that I want to implement... hopefully I'll not get tired of it too soon :D
+Starting to build a simple level generator.
+
+**Thoughts:** Today my mind is busy with lots of other problems...
+
+**Link:** https://www.assetstore.unity3d.com/en/#!/content/32351
+
+
+###
