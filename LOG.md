@@ -393,3 +393,15 @@ Starting to build a simple level generator.
 
 
 ###
+
+
+### Day 34: July 17, 2018
+
+**Today's Progress:** Ramp up on Animation and Object skeleton.
+
+**Thoughts:** Nope... my mind is still not here...
+
+**Link:** https://www.assetstore.unity3d.com/en/#!/content/79840
+
+
+###
