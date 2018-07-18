@@ -405,3 +405,15 @@ Starting to build a simple level generator.
 
 
 ###
+
+
+### Day 35: July 18, 2018
+
+**Today's Progress:** Using TCP Services in .Net
+
+**Thoughts:** I'm so tired T_T
+
+**Link:** https://docs.microsoft.com/en-us/dotnet/framework/network-programming/using-tcp-services
+
+
+###
