@@ -417,3 +417,15 @@ Starting to build a simple level generator.
 
 
 ###
+
+
+### Day 36: July 19, 2018
+
+**Today's Progress:** Continue to Python!
+
+**Thoughts:** "I'm so tired" story day 2 T_T
+
+**Link:** https://www.learnpython.org/
+
+
+###
