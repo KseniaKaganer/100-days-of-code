@@ -429,3 +429,15 @@ Starting to build a simple level generator.
 
 
 ###
+
+
+### Day 37: July 20, 2018
+
+**Today's Progress:** Network Lobby - Real-time Multiplayer - Level Beginner
+
+**Thoughts:** "I'm so tired" story day 3 T_T
+
+**Link:** https://www.assetstore.unity3d.com/en/#!/content/41836
+
+
+###
