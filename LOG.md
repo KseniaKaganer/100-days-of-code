@@ -441,3 +441,16 @@ Starting to build a simple level generator.
 
 
 ###
+
+
+### Day 38: July 21, 2018
+
+**Today's Progress:** Network Lobby - Real-time Multiplayer.
+Create dedicated server, and joining via the Network Lobby.
+
+**Thoughts:** Feeling a little bit better today- so made myself to be more productive:)
+
+**Link:** https://www.assetstore.unity3d.com/en/#!/content/46213
+
+
+###
