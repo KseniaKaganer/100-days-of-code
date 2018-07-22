@@ -454,3 +454,15 @@ Create dedicated server, and joining via the Network Lobby.
 
 
 ###
+
+
+### Day 39: July 22, 2018
+
+**Today's Progress:** Quick Start on the 3D Explorer Game Kit.
+
+**Thoughts:** Brace yourself - hard working week is coming!
+
+**Link:** https://unity3d.com/learn/tutorials/s/3d-game-kit
+
+
+###
