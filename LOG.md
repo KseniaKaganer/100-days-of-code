@@ -466,3 +466,14 @@ Create dedicated server, and joining via the Network Lobby.
 
 
 ###
+
+
+### Day 40: July 23, 2018
+
+**Today's Progress:** Unity HDRI - Material Playground
+
+**Thoughts:** This challenge is endless X_X
+
+**Link:** http://blog.selfshadow.com/publications/s2016-shading-course/unity/s2016_pbs_unity_hdri_notes.pdf
+
+###
