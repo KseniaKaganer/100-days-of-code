@@ -477,3 +477,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** http://blog.selfshadow.com/publications/s2016-shading-course/unity/s2016_pbs_unity_hdri_notes.pdf
 
 ###
+
+
+### Day 41: July 24, 2018
+
+**Today's Progress:** Refreshing Graph Algorithms
+
+**Thoughts:** Sleepy ZzZzZz.....
+
+**Link:** https://www.geeksforgeeks.org/
+
+###
