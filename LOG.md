@@ -488,3 +488,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.geeksforgeeks.org/
 
 ###
+
+
+### Day 42: July 25, 2018
+
+**Today's Progress:** Competitive Programming - First Steps
+
+**Thoughts:** Bad day... still did something...
+
+**Link:** https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/
+
+###
