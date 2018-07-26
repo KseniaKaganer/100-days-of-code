@@ -499,3 +499,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/
 
 ###
+
+
+### Day 43: July 26, 2018
+
+**Today's Progress:** Various Image Filtering Function
+
+**Thoughts:** Harder better faster stronger!
+
+**Link:** https://lodev.org/cgtutor/filtering.html
+
+###
