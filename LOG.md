@@ -510,3 +510,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://lodev.org/cgtutor/filtering.html
 
 ###
+
+
+### Day 44: July 27, 2018
+
+**Today's Progress:** freeCodeCamp JavaScript!
+
+**Thoughts:** Weekend Fun Beer and Code:)
+
+**Link:** https://www.freecodecamp.org/
+
+###
