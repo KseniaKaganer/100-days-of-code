@@ -521,3 +521,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.freecodecamp.org/
 
 ###
+
+
+### Day 45: July 28, 2018
+
+**Today's Progress:** More JavaScript at freeCodeCamp!
+
+**Thoughts:** Good day for coding
+
+**Link:** https://www.freecodecamp.org/
+
+###
