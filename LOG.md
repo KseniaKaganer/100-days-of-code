@@ -543,3 +543,13 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.freecodecamp.org/
 
 ###
+
+### Day 47: July 30, 2018
+
+**Today's Progress:** Computer Graphics Mapping - LEARN
+
+**Thoughts:** Such a lonely day and it's mine...
+
+**Link:** http://kseniakaganer.wixsite.com/kseniakaganer/materials
+
+###
