@@ -553,3 +553,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** http://kseniakaganer.wixsite.com/kseniakaganer/materials
 
 ###
+
+
+### Day 48: July 31, 2018
+
+**Today's Progress:** CodinGame C# Practice
+
+**Thoughts:** Coding after 00:00 when woke up at 6 X_X
+
+**Link:** https://www.codingame.com/training
+
+###
