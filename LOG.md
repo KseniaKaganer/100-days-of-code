@@ -564,3 +564,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.codingame.com/training
 
 ###
+
+
+### Day 49: August 1, 2018
+
+**Today's Progress:** Great refresh on Computer Graphics Algorithms
+
+**Thoughts:** So sleepy...
+
+**Link:** https://www.geeksforgeeks.org/tag/computer-graphics/
+
+###
