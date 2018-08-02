@@ -575,3 +575,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.geeksforgeeks.org/tag/computer-graphics/
 
 ###
+
+
+### Day 50: August 2, 2018
+
+**Today's Progress:** Starting with the community aspect - Facebook SDK for Unity
+
+**Thoughts:** On the one hand I got to a half of this challenge ^_^ on the other hand there is another half of it X_X
+
+**Link:** https://developers.facebook.com/docs/unity/examples/#init
+
+###
