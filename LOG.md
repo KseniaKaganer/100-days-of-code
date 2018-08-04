@@ -597,3 +597,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://kseniakaganer.itch.io/my-game
 
 ###
+
+
+### Day 52: August 4, 2018
+
+**Today's Progress:** Updated itch.io application with additional functionality and general application planning.
+
+**Thoughts:** Sleppy Day
+
+**Link:** https://kseniakaganer.itch.io/my-game
+
+###
