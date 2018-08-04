@@ -586,3 +586,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://developers.facebook.com/docs/unity/examples/#init
 
 ###
+
+
+### Day 51: August 3, 2018
+
+**Today's Progress:** Unity + Facebook + WebGL Also oppened itch.io account for a network host and upload game that support all browsers and hopefully smartphones.
+
+**Thoughts:** Forgot to publish my yesterday challenge hh^^
+
+**Link:** https://kseniakaganer.itch.io/my-game
+
+###
