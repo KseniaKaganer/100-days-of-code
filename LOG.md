@@ -608,3 +608,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://kseniakaganer.itch.io/my-game
 
 ###
+
+
+### Day 53: August 5, 2018
+
+**Today's Progress:** Bayer demosaicing filter shader implementation
+
+**Thoughts:** Busy Day
+
+**Link:** https://pdfs.semanticscholar.org/088a/2f47b7ab99c78d41623bdfaf4acdb02358fb.pdf
+
+###
