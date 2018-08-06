@@ -619,3 +619,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://pdfs.semanticscholar.org/088a/2f47b7ab99c78d41623bdfaf4acdb02358fb.pdf
 
 ###
+
+
+### Day 54: August 6, 2018
+
+**Today's Progress:** Unity tutorial day - Helped with getting started, Basic Scripting and Dynamic Instantiation
+
+**Thoughts:** Busy Day 2
+
+**Link:** https://docs.unity3d.com/Manual/SpecialFolders.html
+
+###
