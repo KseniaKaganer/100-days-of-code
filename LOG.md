@@ -627,6 +627,6 @@ Create dedicated server, and joining via the Network Lobby.
 
 **Thoughts:** Busy Day 2
 
-**Link:** https://docs.unity3d.com/Manual/SpecialFolders.html
+**Link:** https://docs.unity3d.com/Manual/LoadingResourcesatRuntime.html
 
 ###
