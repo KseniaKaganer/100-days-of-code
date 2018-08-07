@@ -630,3 +630,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://docs.unity3d.com/Manual/LoadingResourcesatRuntime.html
 
 ###
+
+
+### Day 55: August 7, 2018
+
+**Today's Progress:** RenderTexture red channel 8 bit to -> shader post processing to -> RenderTexture rgb 24 bit
+
+**Thoughts:** Busy Day 3
+
+**Link:** https://docs.unity3d.com/ScriptReference/Graphics.Blit.html
+
+###
