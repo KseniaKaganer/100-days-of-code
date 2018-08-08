@@ -641,3 +641,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://docs.unity3d.com/ScriptReference/Graphics.Blit.html
 
 ###
+
+
+### Day 56: August 8, 2018
+
+**Today's Progress:** C++ Coding and questions on iPhone... and Unity shaders in the rest of the time
+
+**Thoughts:** Didn't have lots of time - starting to looking for some possibilities to code on the way....
+
+**Link:** https://www.youtube.com/watch?v=C0uJ4sZelio&t=245s
+
+###
