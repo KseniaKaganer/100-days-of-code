@@ -652,3 +652,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.youtube.com/watch?v=C0uJ4sZelio&t=245s
 
 ###
+
+
+### Day 57: August 9, 2018
+
+**Today's Progress:** Classes and Objects in python
+
+**Thoughts:** One does not simple to be productive after Wine X_X
+
+**Link:** https://www.learnpython.org/en/Classes_and_Objects
+
+###
