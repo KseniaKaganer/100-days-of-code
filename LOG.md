@@ -663,3 +663,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.learnpython.org/en/Classes_and_Objects
 
 ###
+
+
+### Day 58: August 9, 2018
+
+**Today's Progress:** Cuda get started
+
+**Thoughts:** Action Day!
+
+**Link:** https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
+
+###
