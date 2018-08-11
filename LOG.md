@@ -674,3 +674,13 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
 
 ###
+
+### Day 59: August 10, 2018
+
+**Today's Progress:** FreeCodeCamp JavaScript
+
+**Thoughts:** Feeling Lazy...
+
+**Link:** https://www.freecodecamp.org/
+
+###
