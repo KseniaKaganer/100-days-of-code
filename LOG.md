@@ -684,3 +684,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.freecodecamp.org/
 
 ###
+
+
+### Day 60: August 11, 2018
+
+**Today's Progress:** Add 3D Drag and Drop to MyGame^^
+
+**Thoughts:** Having fun on my vacation week:)
+
+**Link:** https://docs.unity3d.com/ScriptReference/Physics.Raycast.html
+
+###
