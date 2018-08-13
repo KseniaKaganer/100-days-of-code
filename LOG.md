@@ -695,3 +695,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://docs.unity3d.com/ScriptReference/Physics.Raycast.html
 
 ###
+
+
+### Day 61: August 12, 2018
+
+**Today's Progress:** Continue to work on the 3D Drag and Drop combined with GUI dynamic instantiation
+
+**Thoughts:** Having fun on my vacation week! Big day tomorrow!
+
+**Link:** https://assetstore.unity.com/packages/tools/gui/simple-drag-and-drop-66449
+
+###
