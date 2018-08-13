@@ -665,7 +665,7 @@ Create dedicated server, and joining via the Network Lobby.
 ###
 
 
-### Day 58: August 9, 2018
+### Day 58: August 10, 2018
 
 **Today's Progress:** Cuda get started
 
@@ -675,7 +675,7 @@ Create dedicated server, and joining via the Network Lobby.
 
 ###
 
-### Day 59: August 10, 2018
+### Day 59: August 11, 2018
 
 **Today's Progress:** FreeCodeCamp JavaScript
 
@@ -686,7 +686,7 @@ Create dedicated server, and joining via the Network Lobby.
 ###
 
 
-### Day 60: August 11, 2018
+### Day 60: August 12, 2018
 
 **Today's Progress:** Add 3D Drag and Drop to MyGame^^
 
@@ -697,12 +697,88 @@ Create dedicated server, and joining via the Network Lobby.
 ###
 
 
-### Day 61: August 12, 2018
+### Day 61: August 13, 2018
 
 **Today's Progress:** Continue to work on the 3D Drag and Drop combined with GUI dynamic instantiation
 
 **Thoughts:** Having fun on my vacation week! Big day tomorrow!
 
 **Link:** https://assetstore.unity.com/packages/tools/gui/simple-drag-and-drop-66449
+
+###
+
+### Day 62: August 14, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** Flying to Ireland today! That gonna be a big challenge for me...
+
+**Link:** 
+
+###
+
+
+### Day 63: August 15, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
+
+
+### Day 64: August 16, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
+
+
+### Day 65: August 17, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
+
+
+### Day 66: August 18, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
+
+
+### Day 67: August 19, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** Back from Ireland!
+
+**Link:** 
+
+###
+
+
+### Day 68: August 20, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** First day in my new Job!
+
+**Link:** 
 
 ###
