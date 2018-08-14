@@ -709,11 +709,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 62: August 14, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Dictionaries and Modules - Slowly but surely I'm starting to like Python^^
 
 **Thoughts:** Flying to Ireland today! That gonna be a big challenge for me...
 
-**Link:** 
+**Link:** https://www.learnpython.org/en/Dictionaries
 
 ###
 
