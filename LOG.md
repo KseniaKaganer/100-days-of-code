@@ -720,11 +720,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 63: August 15, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Free code Camp JavaScript
 
-**Thoughts:** 
+**Thoughts:** Lot's of Guinness Day!
 
-**Link:** 
+**Link:** https://www.freecodecamp.org/
 
 ###
 
