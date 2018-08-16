@@ -731,11 +731,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 64: August 16, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Free code Camp finish JavaScript section
 
-**Thoughts:** 
+**Thoughts:** Double lot's of Guinness Day!
 
-**Link:** 
+**Link:** https://www.freecodecamp.org/
 
 ###
 
