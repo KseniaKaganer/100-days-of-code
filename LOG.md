@@ -742,11 +742,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 65: August 17, 2018
 
-**Today's Progress:** 
+**Today's Progress:** As long as I can Python and Guinness everything is fine^^
 
-**Thoughts:** 
+**Thoughts:** Ireland travel - Guinness Day!
 
-**Link:** 
+**Link:** https://www.learnpython.org/en/Modules_and_Packages
 
 ###
 
