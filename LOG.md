@@ -753,11 +753,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 66: August 18, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Good morning Python Packages and Numpy Arrays
 
-**Thoughts:** 
+**Thoughts:** Last day in Dublin TT
 
-**Link:** 
+**Link:** https://www.learnpython.org/en/Numpy_Arrays
 
 ###
 
