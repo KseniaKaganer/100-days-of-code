@@ -764,11 +764,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 67: August 19, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Python Numpy Library
 
-**Thoughts:** Back from Ireland!
+**Thoughts:** Back from Ireland! Weird Day...
 
-**Link:** 
+**Link:** http://www.numpy.org/
 
 ###
 
