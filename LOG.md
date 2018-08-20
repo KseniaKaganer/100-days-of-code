@@ -775,10 +775,10 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 68: August 20, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Let's start a little bit on Artificial Intelligence for Games
 
 **Thoughts:** First day in my new Job!
 
-**Link:** 
+**Link:** https://www.youtube.com/watch?v=nEnNtiumgII
 
 ###
