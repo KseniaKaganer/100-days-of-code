@@ -782,3 +782,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.youtube.com/watch?v=nEnNtiumgII
 
 ###
+
+
+### Day 69: August 21, 2018
+
+**Today's Progress:** Always do A* Algorithm unless it's not good enough then don't
+
+**Thoughts:** Long Long Day!! Please weakened!!
+
+**Link:** http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
+
+###
