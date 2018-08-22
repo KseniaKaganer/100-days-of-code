@@ -793,3 +793,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
 
 ###
+
+
+### Day 70: August 22, 2018
+
+**Today's Progress:** Reinforcement Learning + Great Lecture from Berkeley University
+
+**Thoughts:** Long Long Day!! One more month to go!
+
+**Link:** https://www.youtube.com/watch?v=J6PBD-wNEDs&t=0s&index=2&list=PLUnYalVQt334T-6tci1sO6tdPi9-zy6mH
+
+###
