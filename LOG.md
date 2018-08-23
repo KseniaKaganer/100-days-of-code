@@ -804,3 +804,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.youtube.com/watch?v=J6PBD-wNEDs&t=0s&index=2&list=PLUnYalVQt334T-6tci1sO6tdPi9-zy6mH
 
 ###
+
+
+### Day 71: August 23, 2018
+
+**Today's Progress:** Unity Machine Learning Crawler
+
+**Thoughts:** So sleepy ZzZzZzZz....
+
+**Link:** https://unity3d.com/machine-learning
+
+###
