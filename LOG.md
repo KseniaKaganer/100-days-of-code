@@ -815,3 +815,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://unity3d.com/machine-learning
 
 ###
+
+
+### Day 72: August 24, 2018
+
+**Today's Progress:** Continue adding/editing Prefabs for my "TemplateProject".
+
+**Thoughts:** So sleepy ZzZzZzZz.... But need more BEER :P
+
+**Link:** https://github.com/KseniaKaganer/TemplateProject
+
+###
