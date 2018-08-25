@@ -826,3 +826,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://github.com/KseniaKaganer/TemplateProject
 
 ###
+
+
+### Day 73: August 25, 2018
+
+**Today's Progress:** Implemented attach to the ground drag
+
+**Thoughts:** Still feeling lazy
+
+**Link:** https://docs.unity3d.com/ScriptReference/Camera.ScreenToWorldPoint.html
+
+###
