@@ -837,3 +837,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://docs.unity3d.com/ScriptReference/Camera.ScreenToWorldPoint.html
 
 ###
+
+
+### Day 74: August 26, 2018
+
+**Today's Progress:** Continue to Unreal
+
+**Thoughts:** So much work TODO!
+
+**Link:** https://www.unrealengine.com/en-US/blog/category/learning
+
+###
