@@ -848,3 +848,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.unrealengine.com/en-US/blog/category/learning
 
 ###
+
+
+### Day 75: August 27, 2018
+
+**Today's Progress:** Continue to Unreal Vehicle Blueprint
+
+**Thoughts:** Still so much work TODO!
+
+**Link:** https://www.youtube.com/watch?v=jEdZf9ojq1U&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC&index=4
+
+###
