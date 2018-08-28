@@ -859,3 +859,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.youtube.com/watch?v=jEdZf9ojq1U&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC&index=4
 
 ###
+
+
+### Day 76: August 28, 2018
+
+**Today's Progress:** Implemented Unity C# JSON Serialization
+
+**Thoughts:** Had some coding motivation today
+
+**Link:** https://docs.unity3d.com/Manual/JSONSerialization.html
+
+###
