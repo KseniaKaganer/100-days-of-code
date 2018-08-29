@@ -870,3 +870,13 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://docs.unity3d.com/Manual/JSONSerialization.html
 
 ###
+
+### Day 77: August 29, 2018
+
+**Today's Progress:** Unity C# JSON Parser
+
+**Thoughts:** So Drunk:D
+**Link:** https://forum.unity.com/threads/how-parse-json-data-in-unity-in-c.383804/
+
+###
+
