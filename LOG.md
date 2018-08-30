@@ -876,7 +876,18 @@ Create dedicated server, and joining via the Network Lobby.
 **Today's Progress:** Unity C# JSON Parser
 
 **Thoughts:** So Drunk:D
+
 **Link:** https://forum.unity.com/threads/how-parse-json-data-in-unity-in-c.383804/
 
 ###
 
+
+### Day 78: August 39, 2018
+
+**Today's Progress:** Python Pandas Basics
+
+**Thoughts:** So Drunk ----- Day 2:D
+
+**Link:** https://www.learnpython.org/en/Pandas_Basics
+
+###
