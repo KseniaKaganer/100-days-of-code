@@ -882,12 +882,23 @@ Create dedicated server, and joining via the Network Lobby.
 ###
 
 
-### Day 78: August 39, 2018
+### Day 78: August 30, 2018
 
 **Today's Progress:** Python Pandas Basics
 
 **Thoughts:** So Drunk ----- Day 2:D
 
 **Link:** https://www.learnpython.org/en/Pandas_Basics
+
+###
+
+
+### Day 79: August 31, 2018
+
+**Today's Progress:** Unreal Engine Still lots to learn
+
+**Thoughts:** 2 Days Hangover revenge
+
+**Link:** https://www.youtube.com/watch?v=2c-EflxWafc&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC&index=6
 
 ###
