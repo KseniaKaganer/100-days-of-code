@@ -902,3 +902,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.youtube.com/watch?v=2c-EflxWafc&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC&index=6
 
 ###
+
+
+### Day 80: September 1, 2018
+
+**Today's Progress:** Unreal Engine Blueprints Visual Scripting
+
+**Thoughts:** Back on the horse!
+
+**Link:** https://docs.unrealengine.com/en-us/Engine/Blueprints
+
+###
