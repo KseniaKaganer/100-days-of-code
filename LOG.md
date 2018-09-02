@@ -913,3 +913,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://docs.unrealengine.com/en-us/Engine/Blueprints
 
 ###
+
+
+### Day 81: September 2, 2018
+
+**Today's Progress:** Unreal Engine Static Meshes
+
+**Thoughts:** Just a little more...
+
+**Link:** https://www.youtube.com/watch?v=pMYsiee_I64&index=10&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC
+
+###
