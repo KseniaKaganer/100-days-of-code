@@ -924,3 +924,15 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.youtube.com/watch?v=pMYsiee_I64&index=10&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC
 
 ###
+
+
+### Day 82: September 3, 2018
+
+**Today's Progress:** Unreal Engine Lighting
+
+**Thoughts:** Just a little little more...
+
+**Link:** https://www.youtube.com/watch?v=yQWrdE7EqC0&index=11&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC
+
+###
+
