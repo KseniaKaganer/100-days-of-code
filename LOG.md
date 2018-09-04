@@ -936,3 +936,13 @@ Create dedicated server, and joining via the Network Lobby.
 
 ###
 
+
+### Day 83: September 4, 2018
+
+**Today's Progress:** Unreal Engine Materials
+
+**Thoughts:** Counting days!!
+
+**Link:** https://www.youtube.com/watch?v=J66JyOm2Zrs&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC&index=14
+
+###
