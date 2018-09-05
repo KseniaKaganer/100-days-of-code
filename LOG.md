@@ -946,3 +946,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.youtube.com/watch?v=J66JyOm2Zrs&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC&index=14
 
 ###
+
+
+### Day 84: September 5, 2018
+
+**Today's Progress:** Unreal Engine Landscapes and Heightmaps
+
+**Thoughts:** Still counting!!
+
+**Link:** https://www.youtube.com/watch?v=Nl5byRenkf4&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC&index=16
+
+###
