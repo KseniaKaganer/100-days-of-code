@@ -957,3 +957,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://www.youtube.com/watch?v=Nl5byRenkf4&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC&index=16
 
 ###
+
+
+### Day 85: September 6, 2018
+
+**Today's Progress:** JavaScript ES6
+
+**Thoughts:** Be happy, but never satisfied!
+
+**Link:** https://freecodecamp.org
+
+###
