@@ -968,3 +968,13 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://freecodecamp.org
 
 ###
+
+### Day 86: September 7, 2018
+
+**Today's Progress:** JavaScript ES6
+
+**Thoughts:** I can't see nothing
+
+**Link:** https://freecodecamp.org
+
+###
