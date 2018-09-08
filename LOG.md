@@ -978,3 +978,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://freecodecamp.org
 
 ###
+
+
+### Day 87: September 8, 2018
+
+**Today's Progress:** Finish JavaScript ES6 section & Started Regular Expressions
+
+**Thoughts:** Hangover day it's a bad coding day...
+
+**Link:** https://freecodecamp.org
+
+###
