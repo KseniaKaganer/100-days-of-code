@@ -989,3 +989,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://freecodecamp.org
 
 ###
+
+
+### Day 88: September 9, 2018
+
+**Today's Progress:** Unity + WebGL Small Rosh Hashanah 2D Game
+
+**Thoughts:** Hag Sameah! Shana Tova!!!
+
+**Link:** https://kseniakaganer.itch.io/rosh-hashana
+
+###
