@@ -1000,3 +1000,14 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** https://kseniakaganer.itch.io/rosh-hashana
 
 ###
+
+
+### Day 89: September 10, 2018
+
+**Today's Progress:** Unity Sader Graph
+
+**Thoughts:** Nice Unity 2018 feature! Love it!
+
+**Link:** https://www.youtube.com/watch?v=Ar9eIn4z6XE
+
+###
