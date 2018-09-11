@@ -1015,10 +1015,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 90: September 11, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Unity Jelly Shader!
 
-**Thoughts:** 
+**Thoughts:** 10 Days!!!!
 
-**Link:** 
+**Link:** https://www.youtube.com/watch?v=jSfSup2wjIA&list=PLUnYalVQt334T-6tci1sO6tdPi9-zy6mH&index=2&t=0s
 
 ###
+
