@@ -1023,3 +1023,111 @@ Create dedicated server, and joining via the Network Lobby.
 
 ###
 
+
+### Day 91: September 12, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
+
+
+### Day 92: September 13, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
+
+
+### Day 93: September 14, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
+
+
+### Day 94: September 15, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
+
+
+### Day 95: September 16, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
+
+
+### Day 96: September 17, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
+
+
+### Day 97: September 18, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
+
+
+### Day 98: September 19, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
+
+
+### Day 99: September 20, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
+
+### Day 100: September 21, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link:** 
+
+###
