@@ -1026,11 +1026,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 91: September 12, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Unreal Engine Terrain Material containing multiple texture and normal maps
 
-**Thoughts:** 
+**Thoughts:** Work Day is Difficult for coding challenge
 
-**Link:** 
+**Link:** https://www.youtube.com/watch?v=pkByz_lz_GM&index=17&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC
 
 ###
 
