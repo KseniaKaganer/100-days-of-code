@@ -1037,11 +1037,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 92: September 13, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Unreal Engine Foliage Editor and Normal Maps
 
-**Thoughts:** 
+**Thoughts:** Trying to get used to Unreal.
 
-**Link:** 
+**Link:** https://www.youtube.com/watch?v=HSufhA7Jj-U&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC&index=19
 
 ###
 
