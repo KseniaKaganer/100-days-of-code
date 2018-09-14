@@ -1048,11 +1048,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 93: September 14, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Unreal Engine Emmisive Light & Decals & Opacity masks
 
-**Thoughts:** 
+**Thoughts:** Home working day
 
-**Link:** 
+**Link:** https://www.youtube.com/watch?v=i0dCCcaI2Rs&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC&index=20
 
 ###
 
