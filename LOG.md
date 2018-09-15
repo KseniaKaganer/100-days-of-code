@@ -1059,11 +1059,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 94: September 15, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Unreal Engine Destruction Meshes & Vertex Painting & Media Texture & Sounds
 
-**Thoughts:** 
+**Thoughts:** I love weekends
 
-**Link:** 
+**Link:** https://www.youtube.com/watch?v=ZEX2g1bdqUQ&index=25&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC
 
 ###
 
