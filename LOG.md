@@ -1070,11 +1070,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 95: September 16, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Unreal Engine Matinee
 
-**Thoughts:** 
+**Thoughts:** Soon Dobby will be free!!
 
-**Link:** 
+**Link:** https://docs.unrealengine.com/en-us/Engine/Matinee
 
 ###
 
