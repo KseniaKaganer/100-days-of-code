@@ -1081,11 +1081,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 96: September 17, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Unreal Engine Particle Systems & Matinee Sound & Matinee Skeletal Mesh Animation
 
-**Thoughts:** 
+**Thoughts:** 1 More work Day left with coding challenge
 
-**Link:** 
+**Link:** https://www.youtube.com/watch?v=LLdfq3m9FIQ&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC&index=30
 
 ###
 
