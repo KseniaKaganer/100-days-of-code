@@ -1092,11 +1092,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 97: September 18, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Unity Gizmos.DrawLine, draw a line to every object in a 360 degree raycast direction
 
-**Thoughts:** 
+**Thoughts:** 2 Days off :)
 
-**Link:** 
+**Link:** https://docs.unity3d.com/ScriptReference/Gizmos.DrawLine.html
 
 ###
 
