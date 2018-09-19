@@ -1103,11 +1103,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 98: September 19, 2018
 
-**Today's Progress:** 
+**Today's Progress:** JavaScript Regular Expressions
 
-**Thoughts:** 
+**Thoughts:** Wake up in the morning and 1 hour code :P
 
-**Link:** 
+**Link:** https://www.freecodecamp.org/
 
 ###
 
@@ -1121,6 +1121,7 @@ Create dedicated server, and joining via the Network Lobby.
 **Link:** 
 
 ###
+
 
 ### Day 100: September 21, 2018
 
