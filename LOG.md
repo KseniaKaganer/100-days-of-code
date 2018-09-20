@@ -1114,11 +1114,11 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 99: September 20, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Unity Render Point Cloud
 
-**Thoughts:** 
+**Thoughts:** One more day to go!!!! 
 
-**Link:** 
+**Link:** https://github.com/keijiro/Pcx
 
 ###
 
