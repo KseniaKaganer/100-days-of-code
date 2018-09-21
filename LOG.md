@@ -1125,10 +1125,10 @@ Create dedicated server, and joining via the Network Lobby.
 
 ### Day 100: September 21, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Unity Inventory items pickup and use
 
-**Thoughts:** 
+**Thoughts:** Day 100! feeling weird... last day i'm writing my thoughts here
 
-**Link:** 
+**Link:** https://assetstore.unity.com/packages/templates/packs/low-poly-game-kit-110455
 
 ###
